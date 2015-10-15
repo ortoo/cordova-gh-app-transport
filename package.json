@@ -1,0 +1,27 @@
+{
+  "name": "@ortoo/cordova-gh-app-transport",
+  "version": "0.1.0",
+  "description": "Configure the app transport exceptions for GovernorHub",
+  "cordova": {
+    "id": "@ortoo/cordova-gh-app-transport",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortoo/cordova-gh-app-transport.git"
+  },
+  "author": "James Sharp <james@governorhub.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ortoo/cordova-gh-app-transport/issues"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/ortoo/cordova-gh-app-transport#readme"
+}
